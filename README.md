@@ -1,4 +1,4 @@
-# SZUCollegePhysicsExperimentCpp
+# 深圳大学大学物理实验数据分析项目（基于C++）
 * https://github.com/StarSparky/SZUCollegePhysicsExperimentCpp/wiki
 ## 使用步骤：
 * 1.在D盘新建文件夹，文件夹名称为PhysicsExperiment，将文件包的所有文件放入此文件夹（即路径为D:\PhysicsExperiment）。
